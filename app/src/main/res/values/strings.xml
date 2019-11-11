@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="Button">Конвертировать</string>
+    <string name="Text1">Введите градусы для конвертации</string>
+    <string name="EditInput">Цельсий</string>
+    <string name="TextOutput"></string>
+</resources>
