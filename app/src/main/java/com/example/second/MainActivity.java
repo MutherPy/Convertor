@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private float celstofor(float celsium){
+    public float celstofor(float celsium){
 
         return (((celsium * 9)/5) + 32);
     }
